@@ -1,2 +1,2 @@
-# Technical-Writing
-Mini-projects
+# Week one: Self-assessment
+
