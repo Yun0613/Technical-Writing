@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "How to make a graph on microsoft excel" 
-date:   2019-05-21 10:00:00
+title: "How to make a lab data graph compare on microsoft excel" 
+date:   2020-01-30 10:00:00
 category: tutorials
-author: "Sam, Akay, & Raya" 
+author: "Yun Zhou" 
 ---
 
 ## Lesson Abstact
-A simplified tutorial showing students how to create a graph on excel.
+Data comparing is important for some science lab. A simplified tutorial showing students how to create a chart with ability to show comparisons between data series.
 ## Lesson Objectives/Outcomes
 1. Student will be able to set up a chart.
 1. Student will be able to insert data into a chart
@@ -20,14 +20,26 @@ A simplified tutorial showing students how to create a graph on excel.
 
 Microsoft Excel and a Microsoft Excel compatible device.
 
-## Overview
 
-Students at pierce generally have a hard time using the microsoft office program, Excel. This information became understood through the surveys we distributed for our pierce hacker project. Over 2/3 of our survey participants rated their comfortability with microsoft excel below average. Understanding this lack in basic technological wisdom, we feel compelled to provide students with a simple tutorial showing them how to create graphs on microsoft excel.
+## Lesson Steps/Components
+### Step one:  Fill the excel sheet with your data.
 
-## Lesson Steps/Components [as many as needed]
-1. Open blank excel spreadsheet.
-1. Input your data into excel.
-1. Highlight your data by moving the mouse from the beginning of your data to the end of your data.
+![]()
+
+### Step Two: Highlight your data by moving the mouse from the beginning of your data to the end of your data.Then, click the insert tab, and then choose the type of excel graph you want to create.Here, I selected "Scatter" graph.
+
+![Step two]() ![Step two Completed]()
+
+### Step Three: Click "Chart Design", then click "Select Data". Type first group name (Metal A) after "Name", and delete all information in "X values" and "Y values", then, Highlight your data by moving the mouse from the beginning of your data to the end of your data to the "X values" or "Y values". Loook about the picture steps in the following. 
+
+
+![Step Three]() ![Step Three Completed]()
+
+### To add more sets of data, just click "+" button under the Legend entries(Series), Then do the same steps as Metal A. 
+
+![Step two]() ![Step two Completed]()
+
+### Step Four: Click "Chart Design", then click "Quick Layout", 
 1. Click the insert tab, and in the charts section choose one of nine graph and chart options to make.
 1. Adjust your data’s color’s and layout if applicable.
 1. Reorder and put a title on the graph upon personal desires.
