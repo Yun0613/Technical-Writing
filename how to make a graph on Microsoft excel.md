@@ -42,25 +42,13 @@ Microsoft Excel and a Microsoft Excel compatible device.
 
 ![](https://github.com/Yun0613/Technical-Writing/blob/master/Images/Screen%20Shot%202020-02-03%20at%2013.50.24.png)![](https://github.com/Yun0613/Technical-Writing/blob/master/Images/Screen%20Shot%202020-02-03%20at%2013.53.25.png)
 
-### Step Five:
-1. Click the insert tab, and in the charts section choose one of nine graph and chart options to make.
-1. Adjust your data’s color’s and layout if applicable.
-1. Reorder and put a title on the graph upon personal desires.
+### Step Five:Click one dot of data on Metal A, then click "Add Trendline". Then, click the Trendline Option you like. I circled "linear", "Display Equation on Chart" and "Display R-squared value" on chart". Click any circle upon personal desires.
 
-## Photos
+![](https://github.com/Yun0613/Technical-Writing/blob/master/Images/Screen%20Shot%202020-02-03%20at%2014.08.00.png)
+![](https://github.com/Yun0613/Technical-Writing/blob/master/Images/Screen%20Shot%202020-02-03%20at%2014.08.14.png)
 
-* Input your data.
+### Step Six: Click another One dot of data on Metal B, follow directions as Step Five. You can get the compare data graph you want. 
 
-![](https://github.com/Yun0613/Technical-Writing/blob/master/Images/excel_step1.png)
+![](https://github.com/Yun0613/Technical-Writing/blob/master/Images/Screen%20Shot%202020-02-03%20at%2014.08.28.png)
 
-* Highlight your data by moving the mouse from the beginning of your data to the end of your data, then click the insert tab, and in the charts section choose one of nine graph and chart options to make.
 
-![](https://github.com/Yun0613/Technical-Writing/blob/master/Images/excel_step2.png)
-
-* Adjust your data’s color’s and layout if applicable.
-
-![](https://github.com/Yun0613/Technical-Writing/blob/master/Images/excel_step3.png)
-
-## Credits, Further Reading, etc.
-
-* Barron, Brenda. “40 Microsoft Excel Tutorials That'll Blow Your Mind And Impress Your Boss Tomorrow.” Digital.com, Digital.com, 28 Mar. 2019, digital.com/blog/excel-tutorials/.
