@@ -38,7 +38,11 @@ Microsoft Excel and a Microsoft Excel compatible device.
 ### To add more sets of data, just click "+" button under the Legend entries(Series), Then do the same steps as Metal A. 
 
 ![](https://github.com/Yun0613/Technical-Writing/blob/master/Images/Screen%20Shot%202020-02-03%20at%2013.38.10.png)
-### Step Four: Click "Chart Design", then click "Quick Layout", 
+### Step Four: Click "Chart Design", then click "Quick Layout", Then, Type the title name, X and Y name to your data name.
+
+![](https://github.com/Yun0613/Technical-Writing/blob/master/Images/Screen%20Shot%202020-02-03%20at%2013.50.24.png)![](https://github.com/Yun0613/Technical-Writing/blob/master/Images/Screen%20Shot%202020-02-03%20at%2013.53.25.png)
+
+### Step Five:
 1. Click the insert tab, and in the charts section choose one of nine graph and chart options to make.
 1. Adjust your data’s color’s and layout if applicable.
 1. Reorder and put a title on the graph upon personal desires.
