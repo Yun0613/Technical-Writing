@@ -32,6 +32,6 @@
 
 ![](https://github.com/Yun0613/mini-projects-sandbox/blob/master/Lego%20Images/Screen%20Shot%202020-01-13%20at%2015.22.42.png)
 
-Step 8: Place the round grey brick (2x2) onto the right side of the beige plate (16x16) and attach the tabletop.
+### Step 8: Place the round grey brick (2x2) onto the right side of the beige plate (16x16) and attach the tabletop.
 
 ![](https://github.com/Yun0613/mini-projects-sandbox/blob/master/Lego%20Images/Screen%20Shot%202020-01-13%20at%2015.22.53.png)
