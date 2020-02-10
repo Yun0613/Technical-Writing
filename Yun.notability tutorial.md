@@ -52,5 +52,6 @@ https://www.youtube.com/watch?v=M41USMlrxac
  * Tap the Insert Media + icon on the bottom left to insert web clips, photos, figures, text, and writing boxes into your note:
  
  ### Share Your Notes with others.
+ * You can share your finished notes to your friends throught email, dropbox, google driver by clicking the icon on the top of your left screen. 
  
  
