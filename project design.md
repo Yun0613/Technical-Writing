@@ -9,6 +9,6 @@
 
 #### Project Deliverables
 ##### In this section identify and describe the project deliverables
-* Informative genre to descript my own experience.
-* a research deliverable, online articles or data to analyze and support my opinion.
-* Two or more other good app tools to analyze the products marketing. 
+* PPT
+* Brochure
+* facebook and twitter
