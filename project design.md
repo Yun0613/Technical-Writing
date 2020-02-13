@@ -1,6 +1,6 @@
 #### Project Description/Overview
 ##### In this section, give an overview of the project: 
-* I’m going to share my amazon seller experiences
+* I’m going to share how to write a good products description.
 * Audience included the people who want to sell products on amazon or small seller on amazon.
 
 #### Project Rationale
@@ -9,6 +9,6 @@
 
 #### Project Deliverables
 ##### In this section identify and describe the project deliverables
-* PPT
-* Brochure
-* facebook and twitter
+* How to write a good product description tutorial.
+* Search online for example and expert tips for products description.
+* outline and first draft of my paper.
